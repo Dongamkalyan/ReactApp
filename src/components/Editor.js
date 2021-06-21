@@ -44,8 +44,9 @@ function Editor(props)
                     lint:true,
                     lineNumbers:true,
                     theme:"material",
-                    mode:language,
-                    autoCloseTags:true
+                    autoCloseTags:true,
+                    mode:language
+                    
                     
                 }
             }

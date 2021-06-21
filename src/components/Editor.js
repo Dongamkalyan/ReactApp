@@ -4,7 +4,7 @@ import "codemirror/theme/material.css";
 import "codemirror/mode/css/css";
 import "codemirror/mode/xml/xml";
 import "codemirror/mode/javascript/javascript";
-import "codemirror/addon/edit/closetag";
+import "codemirror/addon/edit/closetag.js";
 import { Controlled as ControlledEditor} from "react-codemirror2";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCompressAlt, faExpandAlt } from "@fortawesome/free-solid-svg-icons";
